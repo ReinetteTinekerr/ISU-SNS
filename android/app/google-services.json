@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "522490286569",
+    "project_id": "university-chat-f64a2",
+    "storage_bucket": "university-chat-f64a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522490286569:android:325531399ef18f40733b78",
+        "android_client_info": {
+          "package_name": "com.example.university_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522490286569-ah4s3re53bk98rf3e7e568r6ij3vm6d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.university_chat_app",
+            "certificate_hash": "491a84c923bc891d5eabb9ede920e88168ec4b31"
+          }
+        },
+        {
+          "client_id": "522490286569-vov1n7tr8snfobpuj7ldsn1c566bok86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHNPUySqWl1NrQ748beij2fOiKt4bn3f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522490286569-vov1n7tr8snfobpuj7ldsn1c566bok86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
